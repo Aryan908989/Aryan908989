@@ -1,5 +1,3 @@
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
 # ⚡ Hey, I'm Aryan Gupta!
@@ -12,13 +10,11 @@
 
 <br/>
 
-<!-- ================= SOCIAL LINKS ================= -->
-
 <a href="https://www.linkedin.com/in/aryan-gupta-078647389/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/u/00_Aryan_00/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="mailto:asaryan1k@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -31,19 +27,15 @@
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
-
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science and Engineering student.
-- 🤖 Interested in AI, Large Language Models, RAG, and AI Agents.
-- 🔎 Exploring vector databases and AI-powered applications.
+- 🤖 Interested in Artificial Intelligence, LLMs, RAG, and AI Agents.
+- 🔍 Exploring vector databases and AI-powered applications.
 - 🛠️ Learning by building practical projects.
 - 🚀 Interested in hackathons, innovation, and problem-solving.
 
 ---
-
-<!-- ================= TECH STACK ================= -->
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +52,7 @@
 ### 🤖 AI & LLM Development
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge" alt="AI"/>
+  <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=googlecolab&logoColor=white" alt="AI"/>
   <img src="https://img.shields.io/badge/LLMs-6C5CE7?style=for-the-badge" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" alt="RAG"/>
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
@@ -76,8 +68,6 @@
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
 ## 🚀 My GitHub Repositories
 
 <div align="center">
@@ -86,42 +76,36 @@
   <img src="https://img.shields.io/badge/Explore-All_My_Repositories-00C9A7?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
-</div>
-
-<br/>
-
-<!-- Replace REPO_NAME_1 and REPO_NAME_2 with actual repository names -->
+<br/><br/>
 
 <a href="https://github.com/Aryan908989/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan908989&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Featured Repository 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan908989&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Featured repository 1"/>
 </a>
 <a href="https://github.com/Aryan908989/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan908989&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Featured Repository 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan908989&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Featured repository 2"/>
 </a>
 
----
+</div>
 
-<!-- ================= GITHUB STATS ================= -->
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryan908989&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryan908989&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan908989&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Aryan908989&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Aryan908989&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<!-- ================= CODING PROFILE ================= -->
-
-## 🧠 Find Me on LeetCode
+## 🧠 Coding Profile
 
 <div align="center">
 
@@ -133,8 +117,6 @@
 
 ---
 
-<!-- ================= CONTACT ================= -->
-
 ## 🤝 Let's Connect
 
 Interested in AI, LLMs, software development, and building useful projects? Let's connect and learn together!
@@ -142,10 +124,13 @@ Interested in AI, LLMs, software development, and building useful projects? Let'
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aryan-gupta-078647389/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:asaryan1k@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/Aryan908989">
+  <img src="https://img.shields.io/badge/GitHub-Visit_Profile-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
